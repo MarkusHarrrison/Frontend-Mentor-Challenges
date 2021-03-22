@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+    padding: 3em 0 5em 0;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+
+
+
+@media (min-width: 1200px) {
+    .container { max-width: 1240px; }
+}
